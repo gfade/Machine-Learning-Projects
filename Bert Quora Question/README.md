@@ -1,0 +1,1 @@
+Used HuggingFace  pretrained Bert Transformer, Tensorflow cosine function and Pytorch ,  to determine if transformers word embedding could be used to determine similarities in question being asked, despite not being trained on quora answer dataset, it was able to deliver results better than 45% of submitted answers.
