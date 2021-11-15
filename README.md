@@ -2,5 +2,6 @@
 
 Predicting Rates of Diabetes with Neural Networks and Decision Trees
 
-Used Kaggle notebooks and UCI Machine Learning Database (already preprocessed)
+Exploratory Coding Project for practice with building Neural Networks and Decision Trees
 
+UCI Dataset
