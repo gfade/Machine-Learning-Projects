@@ -1,7 +1,5 @@
 # Projects
 
-Predicting Rates of Diabetes with Neural Networks and Decision Trees
+List of Machine Learning Projects I've been working on 
 
-Exploratory Coding Project for practice with building Neural Networks and Decision Trees
-
-UCI Dataset
+Includes stuff on LSTMs, RNN, pytorch
